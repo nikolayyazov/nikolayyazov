@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python coding in a moment, maybe Java later. Also - software testing, maybe more than coding.
 - 🌱 I’m currently learning Python coding
 - 💞️ I’m looking to collaborate on ... dunno
-- 📫 How to reach me ... I think there is some way here, on GitHub, to send a message, but I don't know exactly yet.
+- 📫 How to reach me ... nikolay.yazov@gmail.com
 
 <!---
 nikolayyazov/nikolayyazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
